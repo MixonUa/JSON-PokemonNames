@@ -12,9 +12,6 @@
     "name" : "Accelgor",
   },
   {
-    "name" : "Aegislash",
-  },
-  {
     "name" : "Aerodactyl",
   },
   {
@@ -27,16 +24,10 @@
     "name" : "Alakazam",
   },
   {
-    "name" : "Alcremie",
-  },
-  {
     "name" : "Alomomola",
   },
   {
     "name" : "Altaria",
-  },
-  {
-    "name" : "Amaura",
   },
   {
     "name" : "Ambipom",
@@ -46,8 +37,5 @@
   },
   {
     "name" : "Ampharos",
-  },
-  {
-    "name" : "Annihilape",
   }
 ]
